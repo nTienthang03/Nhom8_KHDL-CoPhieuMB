@@ -1,6 +1,7 @@
 # Nhom8_KHDL-CoPhieuMB
 
 # Phân tích cổ phiếu MBB giai đoạn 2021–2026
+#link Youtube : https://youtu.be/bBt1wxvNmEo
 
 ## Giới thiệu
 Dự án sử dụng Python để phân tích dữ liệu cổ phiếu MBB trong giai đoạn 2021–2026.
